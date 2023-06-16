@@ -1,0 +1,4 @@
+notebook
+ipywidgets
+tqdm
+python-dotenv
