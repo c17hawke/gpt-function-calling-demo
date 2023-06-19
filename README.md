@@ -2,6 +2,11 @@
 
 Its a demo of GPTs function calling update.
 
+## Tutorial is available on YouTube [Click on the following thumbnail]-
+
+[![Watch the video](https://img.youtube.com/vi/n82zxm8NWm4/maxresdefault.jpg)](https://www.youtube.com/watch?v=n82zxm8NWm4)
+
+
 # References
 
 - [1] https://openai.com/blog/function-calling-and-other-api-updates
